@@ -9,7 +9,7 @@ const Header = () => {
     window.location.reload();
   }
   return (
-    <div className="bg-light p-3" style={with:'100%', backgraund:'#9090e8', color:'#ffffff'}>
+    <div  style={{width:'100%', backgraund:'#9090e8'}}>
       <Link className="btn btn-primary" to="/">
         Main
       </Link>
