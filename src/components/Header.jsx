@@ -9,7 +9,7 @@ const Header = () => {
     window.location.reload();
   }
   return (
-    <div  style={{width:'100%', backgraund:'#9090e8'}}>
+    <div  style={{width:'100%', backgroundColor:'#9090e8'}}>
       <Link className="btn btn-primary" to="/">
         Main
       </Link>
